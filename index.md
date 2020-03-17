@@ -10,7 +10,7 @@ I am a Computer Science sophomore at [Indian Institute of Technology Roorkee](ht
 
 ## What Do I Do?
 In one line : I'm a Data Scientist<br>
-I am mainly looking forward to work in the field of Data Science or as a Python Developer. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.I spend my most of the time on coding platforms particularly Codeforces, Codechef and Atcoder
+I am mainly looking forward to work in the field of Data Science or as a Python Developer. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.I spend my most of the time on coding platforms specially Codeforces, Codechef and Atcoder
 
 
 ## What Do I Know?

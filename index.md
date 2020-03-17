@@ -14,7 +14,7 @@ I am mainly looking forward to work in the field of Data Science or as a Python 
 
 
 ## What Do I Know?
-So far I've gained basic skills in :
+So far I've gained basic skills in :<br>
 Python<br>
 C++<br>
 C<br>
@@ -38,9 +38,9 @@ React<br>
 MYSQL<br>
 
 ## What Have I Done?
-Not Much.I’m still struggling in the Coding World. I am an active member of [Programming and Algorithms Group(PAG)](http://pag.iitr.ac.in/) I love Competitive Programming and I am an Artificial Intelligence Enthusiast especially Computer Vision and Reinforcement Learning .I am capable of developing Web app using Django and React, Android and Ios Apps using flutter. I am also capable of developing 2-D and 3-D games using Unity 3-D.I have a special love for Python.
+Not Much.I’m still struggling in the Coding World. I am an active member of [Programming and Algorithms Group(PAG)](http://pag.iitr.ac.in/) <br> I love Competitive Programming and I am an Artificial Intelligence Enthusiast especially Computer Vision and Reinforcement Learning .I am capable of developing Web app using Django and React, Android and Ios Apps using flutter. I am also capable of developing 2-D and 3-D games using Unity 3-D.I have a special love for Python.
 
-## Contact
+## Contact and Profiles
 Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)<br>
 Facebook : [Unmesh Kumar](https://www.facebook.com/unmesh.kumar.351) <br>
 Instagram : [_unmesh_kumar_](https://www.instagram.com/_unmesh_kumar_/) <br>

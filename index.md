@@ -10,7 +10,7 @@ I am a Computer Science sophomore at [Indian Institute of Technology Roorkee](ht
 
 ## What Do I Do?
 In one line : I'm a Data Scientist<br>
-I am mainly looking forward to work in the field of Data Science or as a Python Developer. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.
+I am mainly looking forward to work in the field of Data Science or as a Python Developer. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.I spend my most of the time on coding platforms particularly Codeforces, Codechef and Atcoder
 
 
 ## What Do I Know?
@@ -38,7 +38,7 @@ React<br>
 MYSQL<br>
 
 ## What Have I Done?
-Not Much.I’m still struggling in the Coding World. I am an active member of [Programming and Algorithms Group(PAG)](http://pag.iitr.ac.in/) <br> I love Competitive Programming and I am an Artificial Intelligence Enthusiast especially Computer Vision and Reinforcement Learning .I am capable of developing Web app using Django and React, Android and Ios Apps using flutter. I am also capable of developing 2-D and 3-D games using Unity 3-D.I have a special love for Python.
+Not Much.I’m still struggling in the Coding World. I am an active member of [Programming and Algorithms Group(PAG)](http://pag.iitr.ac.in/) <br> I love Competitive Programming and I am an Artificial Intelligence Enthusiast in which I specially like Computer Vision and Reinforcement Learning .I am capable of developing Web app using Django and React, Android and Ios Apps using flutter. I am also capable of developing 2-D and 3-D games using Unity 3-D.I have a special love for Python.
 
 ## Contact and Profiles
 Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)<br>

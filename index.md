@@ -15,46 +15,46 @@ I am mainly looking forward to work in the field of Data Science or a Python Dev
 
 ## What Do I Know?
 So far I've gained basic skills in :
-Python
-C++
-C
-C#
-Dart
-JavaScript
-Unity 3-D
-Flutter
-Pytorch
-Tensorflow
-Open-CV
-Pandas
-Numpy
-Matplotlib
-Scipy
-Java
-HTML
-CSS
-Django
-React
-MYSQL
+Python<br>
+C++<br>
+C<br>
+C#<br>
+Dart<br>
+JavaScript<br>
+Unity 3-D<br>
+Flutter<br>
+Pytorch<br>
+Tensorflow<br>
+Open-CV<br>
+Pandas<br>
+Numpy<br>
+Matplotlib<br>
+Scipy<br>
+Java<br>
+HTML<br>
+CSS<br>
+Django<br>
+React<br>
+MYSQL<br>
 
 ## What Have I Done?
 Not Much. Since I’m still struggling in the Coding World. I am an active member of [Programming and Algorithms Group](http://pag.iitr.ac.in/) I love Competitive Programming and I am an Artificial Intelligence Enthusiast especially Computer Vision and Reinforcement Learning .I am capable of developing Web app using Django and React, Android and Ios Apps using flutter. I am also capable of developing 2-D and 3-D games using Unity 3-D.I have a special love for Python.
 
 ## Contact
-Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)
-Facebook : [Unmesh Kumar](https://www.facebook.com/unmesh.kumar.351")
-Instagram : [_unmesh_kumar_]("https://www.instagram.com/_unmesh_kumar_/")
-LinkedIn : [Unmesh Kumar]("https://www.linkedin.com/in/unmesh-kumar-741288177/")
-Pinterest : [Unmesh Kumar]("https://in.pinterest.com/unmeshkamleshkumar/")
-Medium : [Unmesh Kumar]("https://medium.com/@unmeshkamleshkumar")
-Github : [Unmesh-Kumar]("https://github.com/Unmesh-Kumar")
-Kaggle : [Unmesh Kumar]("https://www.kaggle.com/unmeshkumar")
-Codeforces : [unmesh_kumar]("https://codeforces.com/profile/unmesh_kumar")
-Codechef : [unmesh_kumar]("https://www.codechef.com/users/unmesh_kumar")
-Atcoder : [unmesh_kumar]("https://atcoder.jp/users/unmesh_kumar")
-Spoj : [unmesh_kumar]("https://www.spoj.com/users/unmesh_kumar/")
-Hackerearth : [unmesh_kumar]("https://www.hackerearth.com/@unmesh8")
-hackerrank : [unmesh_kumar]("https://www.hackerrank.com/unmesh_kumar?hr_r=1")
-Uva online judge : [unmesh_kumar]("https://uhunt.onlinejudge.org/id/1062258")
-Projecteuler : [unmesh_kumar]("https://projecteuler.net/profile/unmesh_kumar.png")
-StopStalk : [unmesh_kumar]("https://www.stopstalk.com/user/profile/unmesh_kumar")
+Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)<br>
+Facebook : [Unmesh Kumar](https://www.facebook.com/unmesh.kumar.351")<br>
+Instagram : [_unmesh_kumar_]("https://www.instagram.com/_unmesh_kumar_/")<br>
+LinkedIn : [Unmesh Kumar]("https://www.linkedin.com/in/unmesh-kumar-741288177/")<br>
+Pinterest : [Unmesh Kumar]("https://in.pinterest.com/unmeshkamleshkumar/")<br>
+Medium : [Unmesh Kumar]("https://medium.com/@unmeshkamleshkumar")<br>
+Github : [Unmesh-Kumar]("https://github.com/Unmesh-Kumar")<br>
+Kaggle : [Unmesh Kumar]("https://www.kaggle.com/unmeshkumar")<br>
+Codeforces : [unmesh_kumar]("https://codeforces.com/profile/unmesh_kumar")<br>
+Codechef : [unmesh_kumar]("https://www.codechef.com/users/unmesh_kumar")<br>
+Atcoder : [unmesh_kumar]("https://atcoder.jp/users/unmesh_kumar")<br>
+Spoj : [unmesh_kumar]("https://www.spoj.com/users/unmesh_kumar/")<br>
+Hackerearth : [unmesh_kumar]("https://www.hackerearth.com/@unmesh8")<br>
+hackerrank : [unmesh_kumar]("https://www.hackerrank.com/unmesh_kumar?hr_r=1")<br>
+Uva online judge : [unmesh_kumar]("https://uhunt.onlinejudge.org/id/1062258")<br>
+Projecteuler : [unmesh_kumar]("https://projecteuler.net/profile/unmesh_kumar.png")<br>
+StopStalk : [unmesh_kumar]("https://www.stopstalk.com/user/profile/unmesh_kumar")<br>

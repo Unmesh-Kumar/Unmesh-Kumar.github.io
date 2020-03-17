@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Unmesh Kumar</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Unmesh Kumar" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="My Github Page" />
-<meta property="og:description" content="My Github Page" />
-<link rel="canonical" href="https://Unmesh-Kumar.github.io/" />
-<meta property="og:url" content="https://Unmesh-Kumar.github.io/" />
-<meta property="og:site_name" content="Coding is Life!" />
-<script type="application/ld+json">
-{"description":"My Github Page","@type":"WebSite","url":"https://Unmesh-Kumar.github.io/","name":"Coding is Life!","headline":"Unmesh Kumar","@context":"https://schema.org"}</script>
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://Unmesh-Kumar.github.io/">Coding is Life!</a></h1>
-
-
-
-
-        <p class="view"><a href="https://github.com/Unmesh-Kumar">View My GitHub Profile</a></p>
-
-
-
-      </header>
-      <section>
 
 
 <h1 id="unmesh-kumar">Unmesh Kumar</h1>
@@ -91,24 +57,3 @@ hackerrank : <a href="https://www.hackerrank.com/unmesh_kumar?hr_r=1">unmesh_kum
 Uva online judge : <a href="https://uhunt.onlinejudge.org/id/1062258">unmesh_kumar</a><br />
 Projecteuler : <a href="https://projecteuler.net/profile/unmesh_kumar.png">unmesh_kumar</a><br />
 StopStalk : <a href="https://www.stopstalk.com/user/profile/unmesh_kumar">unmesh_kumar</a></p>
-
-
-      </section>
-      <footer>
-
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-142688296-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-
-  </body>
-</html>

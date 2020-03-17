@@ -17,21 +17,11 @@
 <meta property="og:site_name" content="Coding is Life!" />
 <script type="application/ld+json">
 {"description":"My Github Page","@type":"WebSite","url":"https://Unmesh-Kumar.github.io/","name":"Coding is Life!","headline":"Unmesh Kumar","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=44c96ee29c1963a95f763d99f6a06431ae37e4c3">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="https://Unmesh-Kumar.github.io/">Coding is Life!</a></h1>
-
-
-
-        <p>My Github Page</p>
 
 
 

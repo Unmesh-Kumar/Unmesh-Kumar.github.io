@@ -4,7 +4,7 @@
 
 ## Who Am I?
 Hey there! Nice to see you at my github page :)
-I am a Computer Science sophomore at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/)(Batch of ‘22) pursuing B.Tech in [Computer Science and Engineering](https://www.iitr.ac.in/departments/CSE/).
+I am a Sophomore at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/)(Batch of ‘22) pursuing B.Tech in [Computer Science and Engineering](https://www.iitr.ac.in/departments/CSE/).
 
 
 

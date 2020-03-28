@@ -45,7 +45,6 @@ Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)<br>
 Facebook : [Unmesh Kumar](https://www.facebook.com/unmesh.kumar.351) <br>
 Instagram : [_unmesh_kumar_](https://www.instagram.com/_unmesh_kumar_/) <br>
 LinkedIn : [Unmesh Kumar](https://www.linkedin.com/in/unmesh-kumar-741288177/) <br>
-Pinterest : [Unmesh Kumar](https://in.pinterest.com/unmeshkamleshkumar/) <br>
 Medium : [Unmesh Kumar](https://medium.com/@unmeshkamleshkumar) <br>
 Github : [Unmesh-Kumar](https://github.com/Unmesh-Kumar) <br>
 Kaggle : [Unmesh Kumar](https://www.kaggle.com/unmeshkumar) <br>

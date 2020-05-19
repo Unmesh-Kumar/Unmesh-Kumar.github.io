@@ -43,7 +43,7 @@ Not Much.I’m still struggling in the Coding World. I am an active member of [P
 ## Contact and Profiles
 Email : [unmeshkamleshkumar@gmail.com](mailto:unmeshkamleshkumar@gmail.com)<br>
 Facebook : [Unmesh Kumar](https://www.facebook.com/unmesh.kumar.351) <br>
-Instagram : [quicksilver_7.0](https://www.instagram.com/quicksilver_7.0/) <br>
+Instagram : [xorcestor_x](https://www.instagram.com/xorcestor_x/) <br>
 LinkedIn : [Unmesh Kumar](https://www.linkedin.com/in/unmesh-kumar-741288177/) <br>
 Medium : [Unmesh Kumar](https://medium.com/@unmeshkamleshkumar) <br>
 Github : [Unmesh-Kumar](https://github.com/Unmesh-Kumar) <br>

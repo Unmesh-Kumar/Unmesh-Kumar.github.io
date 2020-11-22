@@ -9,8 +9,8 @@ I am a Sophomore at [Indian Institute of Technology Roorkee](https://www.iitr.ac
 
 
 ## What Do I Do?
-In one line : I'm a Data Scientist<br>
-I am mainly looking forward to work in the field of Data Science or as a Python Developer. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.I spend my most of the time on coding platforms specially Codeforces, Codechef and Atcoder
+In one line : I'm a Software Developer<br>
+I am mainly looking forward to work in the field of Software Development. I love Python. Deep learning fascinates me especially its application in Computer Vision and Reinforcement Learning.I spend my most of the time on coding platforms specially Codeforces, Codechef and Atcoder
 
 
 ## What Do I Know?
@@ -57,3 +57,4 @@ hackerrank : [unmesh_kumar](https://www.hackerrank.com/unmesh_kumar?hr_r=1)<br>
 Uva online judge : [unmesh_kumar](https://uhunt.onlinejudge.org/id/1062258)<br>
 Projecteuler : [unmesh_kumar](https://projecteuler.net/profile/unmesh_kumar.png)<br>
 StopStalk : [unmesh_kumar](https://www.stopstalk.com/user/profile/unmesh_kumar)<br>
+Leetcode : [unmesh_kumar](https://leetcode.com/unmesh_kumar/)<br>
